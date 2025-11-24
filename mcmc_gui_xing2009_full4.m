@@ -1,5 +1,6 @@
 function mcmc_gui_xing2009_full
 % ============================================================
+% 모델링 회의체 화이팅!
 % FULL Xing 2009 6-ODE MCMC GUI (Improved Version)
 % - Excel import (header auto-detect + unit convert)
 % - Full 6-variable ODE (Xing 2009 기반식)
@@ -436,3 +437,4 @@ function dat = unitConvert(d,u)
 end
 
 end
+
